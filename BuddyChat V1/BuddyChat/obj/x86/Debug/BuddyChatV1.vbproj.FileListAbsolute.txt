@@ -1,0 +1,26 @@
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\bin\Debug\BuddyChat.exe
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\bin\Debug\BuddyChat.pdb
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\bin\Debug\BuddyChat.xml
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\ResolveAssemblyReference.cache
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.Form1.resources
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.Resources.resources
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\GenerateResource.read.1.tlog
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\GenerateResource.write.1.tlog
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.exe
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.xml
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+z:\Joseph\Documents\- CSU -\2012 Spring\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.exe
+z:\Joseph\Documents\- CSU -\2012 Spring\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.xml
+z:\Joseph\Documents\- CSU -\2012 Spring\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+c:\Users\Yu-Ju\Documents\CSU\2013 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.exe
+c:\Users\Yu-Ju\Documents\CSU\2013 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.xml
+c:\Users\Yu-Ju\Documents\CSU\2013 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+C:\Users\Administrator\Documents\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.exe
+C:\Users\Administrator\Documents\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.xml
+C:\Users\Administrator\Documents\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+C:\Users\Administrator\Documents\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.Form1.resources
+C:\Users\Administrator\Documents\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.Resources.resources
+C:\Users\Administrator\Documents\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChatV1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\BuddyChat V1\BuddyChat\bin\Debug\BuddyChat.exe
+C:\Users\Administrator\Documents\BuddyChat V1\BuddyChat\bin\Debug\BuddyChat.pdb
+C:\Users\Administrator\Documents\BuddyChat V1\BuddyChat\bin\Debug\BuddyChat.xml

@@ -1,0 +1,12 @@
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V2\BuddyChat\obj\x86\Debug\BuddyChat.exe
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V2\BuddyChat\obj\x86\Debug\BuddyChat.xml
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V2\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+C:\Users\Administrator\Documents\BuddyChat V2\BuddyChat\obj\x86\Debug\BuddyChat.exe
+C:\Users\Administrator\Documents\BuddyChat V2\BuddyChat\obj\x86\Debug\BuddyChat.xml
+C:\Users\Administrator\Documents\BuddyChat V2\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+C:\Users\Administrator\Documents\BuddyChat V2\BuddyChat\bin\Debug\BuddyChat.exe
+C:\Users\Administrator\Documents\BuddyChat V2\BuddyChat\bin\Debug\BuddyChat.pdb
+C:\Users\Administrator\Documents\BuddyChat V2\BuddyChat\bin\Debug\BuddyChat.xml
+C:\Users\Administrator\Documents\BuddyChat V2\BuddyChat\obj\x86\Debug\BuddyChat.Form1.resources
+C:\Users\Administrator\Documents\BuddyChat V2\BuddyChat\obj\x86\Debug\BuddyChat.Resources.resources
+C:\Users\Administrator\Documents\BuddyChat V2\BuddyChat\obj\x86\Debug\BuddyChatV2.vbproj.GenerateResource.Cache
